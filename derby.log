@@ -1,0 +1,14 @@
+Tue Nov 07 08:41:26 CST 2017 : Apache Derby Network Server - 10.13.1.1 - (1765088) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Tue Nov 07 08:42:01 CST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015f-96ed-c5ff-000069dde29b 
+on database directory /Users/michael/eclipse-workspace/studentdb/manfDB with class loader sun.misc.Launcher$AppClassLoader@66d3c617 
+Loaded from file:/opt/Apache/db-derby-10.13.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_144-b01
+user.dir=/Users/michael/eclipse-workspace/studentdb
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.1
+derby.system.home=/Users/michael/eclipse-workspace/studentdb
+Database Class Loader started - derby.database.classpath=''
